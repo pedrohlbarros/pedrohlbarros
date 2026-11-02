@@ -19,10 +19,10 @@
   <rect x="24" y="68" width="3" height="26" rx="1.5" fill="#8b93f8"/>
   <circle class="pulse" style="animation-delay:0.00s" cx="48" cy="81.0" r="4" fill="#8b93f8"/>
   <text x="64" y="85.5" class="mono" font-size="12.5" letter-spacing="1.5" fill="#8b93f8">RUNTIME</text>
-  <g class="chip mono"><rect x="250" y="66" width="87" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="265" y="85.5">PHP 8.3</text></g>
-  <g class="chip mono"><rect x="346.7" y="66" width="79" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="361.7" y="85.5">Swoole</text></g>
-  <g class="chip mono"><rect x="435.29999999999995" y="66" width="79" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="450.29999999999995" y="85.5">Hyperf</text></g>
-  <g class="chip mono"><rect x="523.9" y="66" width="87" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="538.9" y="85.5">Laravel</text></g>
+  <g class="chip mono"><rect x="250" y="66" width="135" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="265" y="85.5">PHP 5.x – 8.x</text></g>
+  <g class="chip mono"><rect x="395.3" y="66" width="79" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="410.3" y="85.5">Swoole</text></g>
+  <g class="chip mono"><rect x="483.9" y="66" width="79" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="498.9" y="85.5">Hyperf</text></g>
+  <g class="chip mono"><rect x="572.5" y="66" width="87" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="587.5" y="85.5">Laravel</text></g>
   <rect x="24" y="114" width="1152" height="46" rx="10" fill="#0f1522" stroke="#1c2538"/>
   <rect x="24" y="124" width="3" height="26" rx="1.5" fill="#fbbf24"/>
   <circle class="pulse" style="animation-delay:0.35s" cx="48" cy="137.0" r="4" fill="#fbbf24"/>
@@ -34,8 +34,10 @@
   <circle class="pulse" style="animation-delay:0.70s" cx="48" cy="193.0" r="4" fill="#f87171"/>
   <text x="64" y="197.5" class="mono" font-size="12.5" letter-spacing="1.5" fill="#f87171">DATA</text>
   <g class="chip mono"><rect x="250" y="178" width="70" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="265" y="197.5">MySQL</text></g>
-  <g class="chip mono"><rect x="330.5" y="178" width="70" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="345.5" y="197.5">Redis</text></g>
-  <g class="chip mono"><rect x="411.0" y="178" width="70" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="426.0" y="197.5">MinIO</text></g>
+  <g class="chip mono"><rect x="330.5" y="178" width="111" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="345.5" y="197.5">PostgreSQL</text></g>
+  <g class="chip mono"><rect x="451.5" y="178" width="70" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="466.5" y="197.5">Redis</text></g>
+  <g class="chip mono"><rect x="532.0" y="178" width="46" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="547.0" y="197.5">S3</text></g>
+  <g class="chip mono"><rect x="588.2" y="178" width="70" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="603.2" y="197.5">MinIO</text></g>
   <rect x="24" y="226" width="1152" height="46" rx="10" fill="#0f1522" stroke="#1c2538"/>
   <rect x="24" y="236" width="3" height="26" rx="1.5" fill="#5eead4"/>
   <circle class="pulse" style="animation-delay:1.05s" cx="48" cy="249.0" r="4" fill="#5eead4"/>
@@ -48,8 +50,10 @@
   <circle class="pulse" style="animation-delay:1.40s" cx="48" cy="305.0" r="4" fill="#a78bfa"/>
   <text x="64" y="309.5" class="mono" font-size="12.5" letter-spacing="1.5" fill="#a78bfa">OBSERVABILITY</text>
   <g class="chip mono"><rect x="250" y="290" width="135" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="265" y="309.5">OpenTelemetry</text></g>
-  <g class="chip mono"><rect x="395.3" y="290" width="87" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="410.3" y="309.5">Tracing</text></g>
-  <g class="chip mono"><rect x="492.0" y="290" width="87" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="507.0" y="309.5">Metrics</text></g>
+  <g class="chip mono"><rect x="395.3" y="290" width="111" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="410.3" y="309.5">Prometheus</text></g>
+  <g class="chip mono"><rect x="516.3" y="290" width="87" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="531.3" y="309.5">Grafana</text></g>
+  <g class="chip mono"><rect x="613.0" y="290" width="79" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="628.0" y="309.5">Jaeger</text></g>
+  <g class="chip mono"><rect x="701.6" y="290" width="62" height="30" rx="7" fill="#141c2c" stroke="#26314a"/><text x="716.6" y="309.5">Loki</text></g>
   <rect x="24" y="338" width="1152" height="46" rx="10" fill="#0f1522" stroke="#1c2538"/>
   <rect x="24" y="348" width="3" height="26" rx="1.5" fill="#94a3b8"/>
   <circle class="pulse" style="animation-delay:1.75s" cx="48" cy="361.0" r="4" fill="#94a3b8"/>
