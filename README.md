@@ -12,10 +12,10 @@ Today I own the architecture and lead the engineering team of a SaaS platform se
 
 | Area | What I did |
 |:--|:--|
-| **Core engine rewrite** | Rebuilt the core calculation engine from scratch as a **Hyperf** microservice, with DDD and Clean Architecture |
-| **Legacy migration** | Moved a production platform off its legacy codebase with the **Strangler Fig** pattern, no downtime |
-| **Observability** | Led the **OpenTelemetry** rollout across the platform |
-| **Delivery & quality** | CI/CD, automated test pipelines and a **Docker Swarm** staging environment; ~93% fewer critical bugs |
+| **Core service rewrite** | Rebuilt a business-critical service from scratch on **Hyperf**, with DDD and Clean Architecture |
+| **Legacy modernization** | Incremental migration off a legacy codebase with the **Strangler Fig** pattern, zero downtime |
+| **Observability** | Led the **OpenTelemetry** rollout across a distributed platform |
+| **Delivery & quality** | Built CI/CD, automated test pipelines and **Docker Swarm** staging environments |
 
 ### `$ cat stack.yaml`
 
