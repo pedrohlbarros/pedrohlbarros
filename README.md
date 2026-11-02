@@ -1,26 +1,36 @@
-### Hi, I'm Pedro 👋
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Pedro Barros — Senior Software Engineer, PHP Systems Architecture" />
+</p>
 
-Senior Software Engineer and Tech Manager based in Belo Horizonte, Brazil. I work on **software architecture for high-performance PHP systems**: microservices, messaging, performance and observability, in systems that have to keep running while they change.
+### `$ whoami`
 
-Today I lead architecture and the engineering team for a SaaS platform serving around 4,000 business customers in production.
+Senior Software Engineer and Tech Manager in Belo Horizonte, Brazil. I design and build **high-performance PHP systems**: microservices, messaging, performance and observability, in systems that have to keep running while they change.
 
-**What I've been building**
+Today I own the architecture and lead the engineering team of a SaaS platform serving around 4,000 business customers in production.
 
-- Rewrote a core calculation engine from scratch as a microservice on **Hyperf**, using DDD and Clean Architecture
-- Migrated a legacy platform with the **Strangler Fig** pattern, with no downtime during the transition
-- Set up CI/CD, automated test pipelines and a staging environment on **Docker Swarm**
-- Rolled out **OpenTelemetry** observability across the platform
-- Restructured the engineering process, cutting critical bugs by ~93%
+### `$ git log --oneline --highlights`
 
-**Stack**
+| Area | What I did |
+|:--|:--|
+| **Core engine rewrite** | Rebuilt the core calculation engine from scratch as a **Hyperf** microservice, with DDD and Clean Architecture |
+| **Legacy migration** | Moved a production platform off its legacy codebase with the **Strangler Fig** pattern, no downtime |
+| **Observability** | Led the **OpenTelemetry** rollout across the platform |
+| **Delivery & quality** | CI/CD, automated test pipelines and a **Docker Swarm** staging environment; ~93% fewer critical bugs |
 
-`PHP` `Laravel` `Hyperf` `Swoole` `Kafka` `RabbitMQ` `Redis` `MySQL` `Docker Swarm` `OpenTelemetry`
+### `$ cat stack.yaml`
 
-**Currently**
+<p align="center">
+  <img src="./assets/stack.svg" width="100%" alt="Stack: PHP, Swoole, Hyperf, Laravel, Kafka, RabbitMQ, MySQL, Redis, MinIO, Docker Swarm, OpenTelemetry" />
+</p>
 
-- Postgraduate studies in Software Architecture at Full Cycle (2025–2027)
-- Studying and applying DDD, Hexagonal Architecture, event-driven architecture and system design
+### `$ now`
 
-**Find me**
+- Running event-driven flows on **Kafka** in production
+- Postgraduate studies in Software Architecture at Full Cycle (2025 – 2027)
 
-[LinkedIn](https://www.linkedin.com/in/pedrohlbarros)
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedrohlbarros">LinkedIn</a> ·
+  <a href="https://github.com/pedrohlbarros?tab=repositories">Repositories</a>
+</p>
