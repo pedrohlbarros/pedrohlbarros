@@ -2,7 +2,7 @@
 
 Senior Software Engineer and Tech Manager based in Belo Horizonte, Brazil. I work on **software architecture for high-performance PHP systems**: microservices, messaging, performance and observability, in systems that have to keep running while they change.
 
-Today I lead architecture and the engineering team for a SaaS platform serving around 4,000 business customers in production.
+Today I lead architecture and the engineering team for a SaaS platform serving around 3,000 business customers in production.
 
 **What I've been building**
 
